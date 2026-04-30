@@ -444,7 +444,7 @@ window.FDFooter = function FDFooter() {
           <div className="eyebrow mb-3">Kontakt</div>
           <ul className="space-y-2 text-sm">
             <li className="text-fg-muted">franta.pfann@gmail.com</li>
-            <li className="text-fg-muted">Praha · Brno · Olomouc · Ostrava</li>
+            <li className="text-fg-muted">Praha · Brno · Olomouc · Ostrava · Online</li>
           </ul>
         </div>
       </div>

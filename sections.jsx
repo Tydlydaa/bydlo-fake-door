@@ -76,7 +76,7 @@ window.FDHero = function FDHero({ tweaks, onCta, onSubmitText }) {
       <div className="max-w-4xl mx-auto text-center">
         <div className="inline-flex items-center gap-2 rounded-full border border-border bg-white px-3 py-1 text-xs text-fg-muted mb-6">
           <span className="h-1.5 w-1.5 rounded-full bg-primary"></span>
-          Praha · Brno · Olomouc · Ostrava
+          Praha · Brno · Olomouc · Ostrava · Online
         </div>
         <h1 className="text-5xl md:text-7xl font-black tracking-tight text-fg leading-[1.05] text-balance">
           {hero.h}
