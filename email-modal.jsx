@@ -183,24 +183,20 @@ window.FDEmailModal = function FDEmailModal({ open, onClose, prefill, onSubmitte
             <div className="mx-auto h-14 w-14 rounded-full bg-emerald-100 text-emerald-700 flex items-center justify-center">
               <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><polyline points="20 6 9 17 4 12" /></svg>
             </div>
-            <h3 className="mt-5 text-2xl font-bold text-fg tracking-tight">Skvělý, máme tě.</h3>
+            <h3 className="mt-5 text-2xl font-bold text-fg tracking-tight">Skvělý, ozveme se!</h3>
             <p className="mt-3 text-sm text-fg-muted leading-relaxed max-w-sm mx-auto">
-              Ozveme se ti osobně, jakmile spustíme — pravděpodobně do pár týdnů. Mezitím nesdílíme tvůj e-mail s nikým dalším.
+              Ozveme se ti, jakmile projekt spustíme — pravděpodobně na podzim. Tvůj e-mail nesdílíme s nikým dalším.
             </p>
             <div className="mt-6 rounded-lg border border-border bg-surface/50 p-4 text-left">
               <div className="text-xs font-medium uppercase tracking-wider text-fg-subtle mb-2">Co se stane dál</div>
               <ul className="text-sm text-fg space-y-2">
                 <li className="flex items-start gap-2">
                   <span className="text-primary flex-shrink-0">→</span>
-                  <span>Skládáme síť designérů ve tvém městě.</span>
+                  <span>Skládáme síť designérů a architektů v tvém okolí.</span>
                 </li>
                 <li className="flex items-start gap-2">
                   <span className="text-primary flex-shrink-0">→</span>
-                  <span>Spouštíme uzavřenou betu pro prvních 50 lidí — budeš mezi nimi.</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="text-primary flex-shrink-0">→</span>
-                  <span>První konzultace za poloviční cenu, nezávazně.</span>
+                  <span>Spustíme uzavřenou betu pro prvních 100 lidí — budeš mezi nimi.</span>
                 </li>
               </ul>
             </div>
