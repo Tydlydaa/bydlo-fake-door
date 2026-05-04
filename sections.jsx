@@ -47,8 +47,8 @@ window.FDHero = function FDHero({ tweaks, onCta, onSubmitText }) {
 
   const heroes = {
     consult: {
-      h: <>Hodina s&nbsp;designérem<span className="block text-gradient-fade">na tu jednu konkrétní věc.</span></>,
-      sub: 'Ne velký projekt, ani studie. Krátká placená konzultace s architektem nebo interiérovým designérem — abys u sebe doma rozhodl s lehkou hlavou.',
+      h: <>Konzultace s architekty a designery<span className="block text-gradient-fade">- snadno a rychle.</span></>,
+      sub: 'I malým projektům pomůže bystré oko zkušených profesionálů. Vyhněte se přešlapům a udělejte si to doma hezké.',
     },
     plan: {
       h: <>Než utratíš za nábytek,<span className="block text-gradient-fade">probrat to s někým, kdo to dělá.</span></>,
@@ -76,7 +76,7 @@ window.FDHero = function FDHero({ tweaks, onCta, onSubmitText }) {
       <div className="max-w-4xl mx-auto text-center">
         <div className="inline-flex items-center gap-2 rounded-full border border-border bg-white px-3 py-1 text-xs text-fg-muted mb-6">
           <span className="h-1.5 w-1.5 rounded-full bg-primary"></span>
-          Praha · Brno · Olomouc · Ostrava · Online
+          Praha · Brno · Olomouc · Ostrava / Online
         </div>
         <h1 className="text-5xl md:text-7xl font-black tracking-tight text-fg leading-[1.05] text-balance">
           {hero.h}
